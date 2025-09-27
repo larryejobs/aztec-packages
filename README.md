@@ -1,4 +1,4 @@
-# Aztec Monorepo
+## Aztec Monorepo
 
 All the packages that make up [Aztec](https://docs.aztec.network).
 
